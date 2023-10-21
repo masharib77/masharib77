@@ -1,16 +1,27 @@
-### Hi there 👋
+### Greetings fellows 👋
 
-<!--
-**masharib77/masharib77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 AI Developer Extraordinaire 🤖
 
-Here are some ideas to get you started:
+🔍 Exploring the Frontiers of Artificial Intelligence
+💡 Turning Data into Intelligent Insights
+🌐 Machine Learning Enthusiast
+📊 Data Science Aficionado
+👾 Neural Network Wizard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack:
+🧠 Python | TensorFlow | PyTorch
+📈 Scikit-Learn | Pandas | Numpy
+📚 NLP | Computer Vision | Reinforcement Learning
+🌐 Deep Learning | Generative Adversarial Networks
+
+🎯 What I Do:
+🔬 Researching AI's Future
+🌱 Training and Fine-Tuning Models
+📉 Solving Complex Problems
+🚀 Deploying Scalable AI Systems
+
+💬 Let's Connect:
+🌐 GitHub: https://github.com/masharib77
+📫 Email: m.asharib312@gmail.com
+📸 LinkedIn: https://www.linkedin.com/in/muhammad-asharib
+🌐 Portfolio: 
